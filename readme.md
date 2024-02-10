@@ -65,8 +65,6 @@ This repository contains the implementation of various microservices patterns in
 
 ### Prerequisites
 
-## Prerequisites
-
 Before running the project, make sure you have the following prerequisites installed:
 
 - Java Development Kit (JDK)
@@ -86,7 +84,7 @@ Before running the project, make sure you have the following prerequisites insta
 
 ## Contributing
 
-Feel free to contribute to the project! Follow the guidelines in [CONTRIBUTING.md] for more details.
+Feel free to contribute to the project!
 
 ## License
 
